@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(135deg, #00d2ff 0%, #3a7bd5 100%);
+  background: linear-gradient(135deg, green 0%, #3a7bd5 100%);
   min-height: 100vh;
   display: flex;
   align-items: center; /* Centraliza verticalmente */
