@@ -25,8 +25,11 @@ body {
 
 .titulo-container {
   color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   margin-bottom: 30px;
   font-size: 24px;
+  letter-spacing: 1px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .input-container {
