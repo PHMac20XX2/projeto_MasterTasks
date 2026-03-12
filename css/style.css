@@ -81,7 +81,7 @@ body {
   color: white;
   border: none;
   border-radius: 8px;
-  cursor: pointer; /* altera o cursor do mouse */
+  cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   transition: background 0.4s;
@@ -99,7 +99,7 @@ body {
   color: white;
   border: none;
   border-radius: 8px;
-  cursor: pointer; /* altera o cursor do mouse */
+  cursor: pointer;
   font-size: 16px;
   font-weight: bold;
   transition: background 0.4s;
