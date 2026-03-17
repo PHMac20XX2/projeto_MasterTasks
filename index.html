@@ -9,8 +9,6 @@
   </head>
 
   <body>
-    <script src="script.js"></script>
-
     <div class="login-container">
       <div class="login-box">
         <img src="css/images/iconeaba.png" alt="logo" class="login-logo" />
@@ -32,10 +30,19 @@
             <input type="password" id="senha" placeholder="********" required />
           </div>
 
-          <button type="submit" class="btn-login">Entrar</button>
-          <a href="cadastro.html" class="btn-cadastro">Cadastro</a>
+          <button type="submit" id="btn-login" class="btn-login">Entrar</button>
+
+          <h3>
+            Esqueceu a senha?
+            <a href="redefinir_senha.html" class="link-senha">
+              Redefinir senha
+            </a>
+          </h3>
+
+          <!-- <a href="cadastro.html" class="btn-cadastro">Cadastro</a> -->
         </form>
       </div>
     </div>
+    <script src="script.js"></script>
   </body>
 </html>

@@ -2,8 +2,8 @@ body {
   background: linear-gradient(135deg, green 0%, #3a7bd5 100%);
   min-height: 100vh;
   display: flex;
-  align-items: center; /* Centraliza verticalmente */
-  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* centraliza vertical */
+  justify-content: center; /* centraliza horizontal */
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
@@ -12,6 +12,7 @@ body {
   background: white;
   padding: 40px;
   border-radius: 15px;
+
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
   width: 100%;
   max-width: 350px;
@@ -107,4 +108,15 @@ body {
 
 .btn-rcadastro:hover {
   background: #00d2ff;
+}
+
+.link-senha {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+h3 {
+  margin: 1;
+  font-size: 12px;
+  padding: 20px;
 }
