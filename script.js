@@ -4,7 +4,7 @@ const btn = document.getElementById("btn-login");
 
 function validarCampos() {
   if (email.value !== "" && senha.value.length >= 8) {
-    btn.style.backgroundColor = "#28a745";
+    btn.style.backgroundColor = "#3a7bd5";
     btn.style.cursor = "pointer";
     btn.disabled = false;
   } else {
