@@ -31,3 +31,11 @@ Para visualizar o projeto localmente basta:
 ```bash
 git clone [https://github.com/PHMac20XX2/projeto_MasterTasks.git]
 ```
+
+2. Vá até a pasta:
+
+```bash
+cd mastertasks
+```
+
+3. Abra o arquivo **index.html** no seu navegador
